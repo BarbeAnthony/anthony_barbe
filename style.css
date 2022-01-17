@@ -321,7 +321,9 @@ div.portfolio-image-lien{
     max-width:480px;
 }
 
-
+.portfolio-small-image{
+    width:49%;
+}
 
 
 
